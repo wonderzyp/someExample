@@ -1,0 +1,9 @@
+workspace = { members = ["src/gui", "src/mac", "src/mac_gui", "src/windows", "src/windowsGUI", "src/windows_gui"] }
+[package]
+name = "abstract_factory"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
